@@ -17,7 +17,7 @@ public class NgrokMain {
 ```
 2,Spring Boot 使用starter(starter依赖core)
 
-安装jar到maven本地库
+安装jar到maven本地库,或者在项目目录  maven install
 
 ```
 安装指定文件到本地仓库命令：mvn install:install-file
