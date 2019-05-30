@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.g7go.starter.NgrokClientAutoConfigure

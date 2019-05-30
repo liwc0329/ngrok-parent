@@ -4,6 +4,7 @@ package com.g7go.core;
  * @author Mr_Lee
  */
 public class NgrokClientException extends RuntimeException {
+
     public NgrokClientException() {
     }
 

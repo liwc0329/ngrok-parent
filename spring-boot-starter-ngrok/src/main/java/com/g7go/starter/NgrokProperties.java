@@ -11,11 +11,11 @@ public class NgrokProperties {
     /**
      * 服务器地址
      */
-    private String serverAddress = "ngrok.g7go.com";
+    private String serverAddress;
     /**
      * 服务器端口
      */
-    private int serverPort = 8092;
+    private int serverPort = 80;
     /**
      * 协议
      */
