@@ -68,10 +68,10 @@ public class NgrokMain {
 #ngrok.remotePort=8765
 
 #ngrok访问地址
-#ngrok.serverAddress=ngrok.g7go.com
+#ngrok.serverAddress=
 
 #ngrok访问端口
-#ngrok.serverPort=8092
+#ngrok.serverPort=80
 
 #访问子域名前缀,默认随机字符串
 #ngrok.subDomain=lwc
