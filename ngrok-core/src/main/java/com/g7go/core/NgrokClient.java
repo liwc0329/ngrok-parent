@@ -14,10 +14,13 @@ import java.util.List;
  * @author Mr_Lee
  */
 public class NgrokClient {
+
     private static Logger log = LoggerFactory.getLogger(NgrokClient.class);
 
     private SSLSocket socket;
+
     private final SocketFactory socketFactory;
+
     private List<Tunnel> tunnels = new ArrayList<>();
 
     public NgrokClient(String serverAddress, int serverPort) {

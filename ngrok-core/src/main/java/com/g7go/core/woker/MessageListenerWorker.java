@@ -17,9 +17,11 @@ import java.nio.ByteBuffer;
  * @author Mr_Lee
  */
 public class MessageListenerWorker implements Runnable {
+
     Logger log = LoggerFactory.getLogger(MessageListenerWorker.class);
 
     private final SSLSocket socket;
+
     private final MessageHandler messageHandler;
 
     public MessageListenerWorker(MessageHandler messageHandler) {
@@ -35,14 +37,10 @@ public class MessageListenerWorker implements Runnable {
             byte[] strByte;
             BufferedInputStream bis = new BufferedInputStream(socket.getInputStream());
             while (true) {
-                while (bis.available() >= 8) {
-
-                }
                 int i = bis.read(hLen);
                 if (i == -1) {
                     return;
                 }
-
                 ArrayUtils.reverse(hLen);
                 int strLen = ((Long) ByteBuffer.wrap(hLen).getLong()).intValue();
                 log.debug("Reading message with length: {}", strLen);
@@ -64,6 +62,5 @@ public class MessageListenerWorker implements Runnable {
         } catch (Exception e) {
             log.error("Occurred some exception", e);
         }
-
     }
 }

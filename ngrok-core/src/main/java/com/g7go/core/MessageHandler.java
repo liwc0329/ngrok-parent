@@ -25,11 +25,17 @@ import java.util.UUID;
  * @author Mr_Lee
  */
 public class MessageHandler {
+
     Logger log = LoggerFactory.getLogger(MessageHandler.class);
+
     private SSLSocket socket;
+
     private SocketFactory socketFactory;
+
     private String clientId;
+
     private List<Tunnel> tunnels;
+
     private Map<String, Tunnel> mappingMap = new HashMap<>();
 
 
@@ -91,7 +97,7 @@ public class MessageHandler {
 
                 return true;
             }
-            default:{
+            default: {
                 break;
             }
         }

@@ -8,6 +8,7 @@ import org.apache.commons.lang.StringUtils;
  * @author Mr_Lee
  */
 public class Tunnel {
+
     /**
      * 端口
      */
@@ -43,8 +44,7 @@ public class Tunnel {
 
     }
 
-    private Tunnel(int port, String proto, String subDomain, String hostname,
-                   int remotePort, String httpAuth) {
+    private Tunnel(int port, String proto, String subDomain, String hostName, int remotePort, String httpAuth) {
         this.port = port;
         this.proto = proto;
         this.subDomain = subDomain;

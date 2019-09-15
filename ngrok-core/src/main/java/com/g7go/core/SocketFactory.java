@@ -12,8 +12,11 @@ import java.security.cert.X509Certificate;
  * @author Mr_Lee
  */
 public class SocketFactory {
+
     private Logger log = LoggerFactory.getLogger(SocketFactory.class);
+
     private final String serverAddress;
+
     private final int serverPort;
 
     public SocketFactory(String serverAddress, int serverPort) {
@@ -32,24 +35,35 @@ public class SocketFactory {
     }
 
 
-    /*忽略证书*/
+    /**
+     * 忽略证书
+     *
+     * @return
+     * @throws Exception
+     */
     public SSLSocketFactory trustAllSocketFactory() throws Exception {
         TrustManager[] trustAllCerts = new TrustManager[]{
                 new X509TrustManager() {
+                    @Override
                     public X509Certificate[] getAcceptedIssuers() {
                         return null;
                     }
 
+                    @Override
                     public void checkClientTrusted(X509Certificate[] certs, String authType) {
                     }
 
+                    @Override
                     public void checkServerTrusted(X509Certificate[] certs, String authType) {
                     }
 
                 }
         };
+
         SSLContext sslCxt = SSLContext.getInstance("TLSv1.2");
+
         sslCxt.init(null, trustAllCerts, null);
+
         return sslCxt.getSocketFactory();
     }
 

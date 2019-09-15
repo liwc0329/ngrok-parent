@@ -11,7 +11,9 @@ import static java.util.concurrent.Executors.newCachedThreadPool;
  * @author Mr_Lee
  */
 public class WorkerPool {
+
     private static Logger log = LoggerFactory.getLogger(WorkerPool.class);
+
     private static final ExecutorService executorService = newCachedThreadPool();
 
     public static void shutdown() {

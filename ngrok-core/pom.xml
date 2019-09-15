@@ -5,11 +5,11 @@
     <parent>
         <groupId>com.g7go</groupId>
         <artifactId>ngrok-parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0.RELEASE</version>
     </parent>
 
     <artifactId>ngrok-core</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
     <name>ngrok-core</name>
     <description>Ngrok core for Spring Boot</description>
 

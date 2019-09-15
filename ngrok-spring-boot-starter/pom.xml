@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.g7go</groupId>
         <artifactId>ngrok-parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0.RELEASE</version>
     </parent>
 
-    <artifactId>spring-boot-starter-ngrok</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <name>spring-boot-starter-ngrok</name>
+    <artifactId>ngrok-spring-boot-starter</artifactId>
+    <version>1.0.0.RELEASE</version>
+    <name>ngrok-spring-boot-starter</name>
     <description>Ngrok starter for Spring Boot</description>
 
     <dependencies>

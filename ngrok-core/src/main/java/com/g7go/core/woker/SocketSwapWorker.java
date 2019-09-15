@@ -15,9 +15,11 @@ import java.net.SocketException;
  * @author Mr_Lee
  */
 public class SocketSwapWorker implements Runnable {
+
     Logger log = LoggerFactory.getLogger(HealthCheckWorker.class);
 
     private DataInputStream in;
+
     private DataOutputStream out;
 
     public SocketSwapWorker(InputStream in, OutputStream out) {

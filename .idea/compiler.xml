@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ngrok-spring-boot-starter" />
         <module name="ngrok-core" />
-        <module name="spring-boot-starter-ngrok" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ngrok-core" options="" />
-      <module name="spring-boot-starter-ngrok" options="" />
+      <module name="ngrok-spring-boot-starter" options="" />
     </option>
   </component>
 </project>

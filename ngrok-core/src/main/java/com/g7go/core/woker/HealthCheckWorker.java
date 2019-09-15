@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
  * @author Mr_Lee
  */
 public class HealthCheckWorker implements Runnable {
+
     Logger log = LoggerFactory.getLogger(HealthCheckWorker.class);
 
     private final MessageHandler messageHandler;

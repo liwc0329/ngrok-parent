@@ -2,46 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3823a56f-4efd-49fb-8e25-4af5fbdbeb02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ngrok-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/MessageHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/NgrokClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/NgrokClientException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/NgrokMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/SocketFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/SocketFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/Tunnel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/Tunnel$TunnelBuild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/Tunnel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/WorkerPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/woker/HealthCheckWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/woker/MessageListenerWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/classes/com/g7go/core/woker/SocketSwapWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/target/ngrok-core-1.0.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/com/g7go/starter/NgrokClientAutoConfigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/com/g7go/starter/NgrokProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/com/g7go/starter/NgrokWebServerInitializedEventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/classes/com/g7go/starter/SpringBootNgrokStarterApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/target/spring-boot-starter-ngrok-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/Tunnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/Tunnel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/spring-boot-ngrok-starter/target/" />
-    <ignored path="$PROJECT_DIR$/spring-boot-ngrok-core/target/" />
-    <ignored path="$PROJECT_DIR$/ngrok-core/target/" />
-    <ignored path="$PROJECT_DIR$/spring-boot-starter-ngrok/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,99 +41,12 @@
   <component name="FavoritesManager">
     <favorites_list name="ngrok-parent" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngrok-core/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -159,45 +56,21 @@
       <find>0.0.1-SNAPSHOT</find>
       <find>register url</find>
       <find>q</find>
+      <find>release</find>
+      <find>SNAPSHOT</find>
+      <find>-RELEASE</find>
     </findStrings>
     <replaceStrings>
       <replace>WebServerInitializedEvent</replace>
       <replace>@author Mr_Lee</replace>
       <replace>1.0.0-SNAPSHOT</replace>
       <replace />
+      <replace>RELEASE</replace>
+      <replace>.RELEASE</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/resources/META-INF/spring.factories" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokEmbeddedServletContainerInitializedEventListener.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokProperties.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/Tunnel.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" />
-        <option value="$PROJECT_DIR$/spring-boot-ngrok-core/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-starter-ngrok/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java" />
-        <option value="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" />
-        <option value="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -206,65 +79,32 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ngrok-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ngrok-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-starter-ngrok" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="MavenRunner">
+    <option name="environmentProperties">
+      <map>
+        <entry key="JAVA_TOOL_OPTIONS" value="-Dfile.encoding=UTF-8" />
+        <entry key="MAVEN_OPTS" value="-Dfile.encoding=UTF-8" />
+      </map>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="38" />
-    <option name="y" value="440" />
-    <option name="width" value="1603" />
-    <option name="height" value="938" />
-  </component>
+  <component name="ProjectId" id="1QrrhaFsh7f7gm51E6OMKUGkA2e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ngrok-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ngrok-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -308,7 +148,7 @@
       </method>
     </configuration>
     <configuration name="SpringBootNgrokStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-starter-ngrok" />
+      <module name="ngrok-spring-boot-starter" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.g7go.starter.SpringBootNgrokStarterApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -332,199 +172,46 @@
       <updated>1558837625360</updated>
       <workItem from="1558837629844" duration="14411000" />
       <workItem from="1558921817071" duration="721000" />
-      <workItem from="1559213088292" duration="174000" />
+      <workItem from="1559213088292" duration="853000" />
+      <workItem from="1559263635141" duration="10577000" />
+      <workItem from="1559299672106" duration="569000" />
+      <workItem from="1559300612775" duration="4590000" />
+      <workItem from="1559350556517" duration="45000" />
+      <workItem from="1562226495664" duration="1960000" />
+      <workItem from="1562236383080" duration="57000" />
+      <workItem from="1568539677806" duration="624000" />
     </task>
+    <task id="LOCAL-00001" summary="优化">
+      <created>1559213315150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559213315150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15306000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.22654584" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50409836" side_tool="true" weight="0.3425" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.3062361" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956383" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.21492206" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008091" side_tool="true" weight="0.15993538" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.10394456" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/resources/application.properties" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/resources/META-INF/spring.factories" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/Tunnel.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokProperties.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-starter/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-ngrok-core/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/ngrok-parent.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngrok-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClientException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
