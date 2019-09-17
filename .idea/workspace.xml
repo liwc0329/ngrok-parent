@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3823a56f-4efd-49fb-8e25-4af5fbdbeb02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/MessageHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/NgrokMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/SocketFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/Tunnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/Tunnel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/WorkerPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/HealthCheckWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/MessageListenerWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-core/src/main/java/com/g7go/core/woker/SocketSwapWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngrok-parent.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokClientAutoConfigure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/NgrokWebServerInitializedEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-ngrok/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-spring-boot-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ngrok-spring-boot-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngrok-spring-boot-starter/src/main/java/com/g7go/starter/SpringBootNgrokStarterApplication.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +50,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -95,8 +76,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -179,7 +163,9 @@
       <workItem from="1559350556517" duration="45000" />
       <workItem from="1562226495664" duration="1960000" />
       <workItem from="1562236383080" duration="57000" />
-      <workItem from="1568539677806" duration="624000" />
+      <workItem from="1568539677806" duration="742000" />
+      <workItem from="1568593488922" duration="602000" />
+      <workItem from="1568683905713" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="优化">
       <created>1559213315150</created>
@@ -188,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559213315150</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改命名标准">
+      <created>1568540360632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568540360632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -207,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化" />
+    <MESSAGE value="修改命名标准" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改命名标准" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
