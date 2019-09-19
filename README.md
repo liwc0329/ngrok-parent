@@ -1,17 +1,10 @@
-<p align="center">
-	<a href="https://img.shields.io/github/issues/liwc0329/ngrok-parent">
-		<img src="https://img.shields.io/github/issues/liwc0329/ngrok-parent"/>
-	</a>
-	<a href="https://img.shields.io/github/forks/liwc0329/ngrok-parent">
-		<img src="https://img.shields.io/github/forks/liwc0329/ngrok-parent"/>
-	</a>
-	<a href="https://img.shields.io/github/stars/liwc0329/ngrok-parent">
-		<img src="https://img.shields.io/github/stars/liwc0329/ngrok-parent"/>
-	</a>
-	<a href="https://img.shields.io/badge/license-Apache--2.0-green">
-		<img src="https://img.shields.io/badge/license-Apache--2.0-green"/>
-	</a>
-</p>
+![](https://img.shields.io/github/issues/liwc0329/ngrok-parent)
+
+![](https://img.shields.io/github/forks/liwc0329/ngrok-parent)
+
+![](https://img.shields.io/github/stars/liwc0329/ngrok-parent)
+
+![](https://img.shields.io/badge/license-Apache--2.0-green)
 
 java 版本ngrok客户端，包含两个项目（core和starter），starter项目支持spring2.0及以上。
 
