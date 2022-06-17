@@ -111,7 +111,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot.version>2.1.5.RELEASE</spring-boot.version>
         <ngrok.core.version>1.0.0.RELEASE</ngrok.core.version>
-        <fastjson.version>1.2.33</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <logback.classic.version>1.1.11</logback.classic.version>
         <commons.lang.version>2.6</commons.lang.version>
     </properties>
